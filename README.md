@@ -1,9 +1,10 @@
 # Probabilistic AND-OR Attribute Grouping for Zero-Shot Learning
 Code for our paper: *Atzmon & Chechik, "Probabilistic AND-OR Attribute Grouping for Zero-Shot Learning", UAI 2018* <br>
 
-[paper](https://arxiv.org/abs/1806.02664) <br>
-[short video](https://www.youtube.com/watch?v=7nj3OPuGTCY)<br>
-[project page](https://chechiklab.biu.ac.il/~yuvval/LAGO/)
+<a href="https://arxiv.org/abs/1806.02664" target="_blank">paper</a>
+<a href="https://www.youtube.com/watch?v=7nj3OPuGTCY" target="_blank">short video</a>
+<a href="https://chechiklab.biu.ac.il/~yuvval/LAGO/" target="_blank">paper</a>
+
 
 ## Installation
 ### Code and Data
