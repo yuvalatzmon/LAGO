@@ -1,0 +1,8 @@
+# Ignore large files in this directory
+*.hdf5
+*.pkl
+pid*.txt
+
+# Except this file
+!.gitignore
+
