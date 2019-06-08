@@ -83,7 +83,7 @@ To view the results, see the Jupyter notebooks
 If you use this code, please cite our paper.
 
     @inproceedings{atzmon2018LAGO,
-    title={Probabilitis AND-OR Attribute Grouping for Zero-Shot Learning},
+    title={Probabilistic AND-OR Attribute Grouping for Zero-Shot Learning},
     author={Atzmon, Yuval and Chechik, Gal},
     booktitle={Proceedings of the Thirty-Forth Conference on Uncertainty in Artificial Intelligence},
     year={2018},
